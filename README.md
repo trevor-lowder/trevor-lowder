@@ -3,7 +3,6 @@
 - 🛩️ Air Force Veteran
 - 🌸 日本語が話します (I speak Japanese)
 - 📚 Currently learning Spanish
-- 📖 Currently reading "The Self-Taught Cloud Computing Engineer" by Dr. Logan Song
 
 ## 🛠Tech Stack
 - 💻 JS, Java, Python, C#

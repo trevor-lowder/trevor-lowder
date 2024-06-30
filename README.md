@@ -1,5 +1,3 @@
-# 👋 Hello There! I'm @trevor-lowder
-
 ## About Me
 - 🚀 Full-stack Web Developer | ☁️ Cloud Architect
 - 🛩️ Air Force Veteran
@@ -19,7 +17,6 @@
 
 ## Connect with Me
 - 📧 Email: [trevorsrei@gmail.com](mailto:trevorsrei@gmail.com)
-- 💼 LinkedIn: [trevor-lowder](https://www.linkedin.com/in/trevor-lowder/)
 
 ## Let's Collaborate!
 - 🤝 Always open to interesting projects and collaborations
